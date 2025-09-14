@@ -24,7 +24,7 @@
 
 ## 📸 Preview   
 
-![Portfolio Screenshot](portfolio.png)  
+ ![Portfolio Screenshot](images/portfolio.png)
 
 ---
 
